@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pogodynka</string>
+    <string name="hello_blank_fragment">Dzisiejsza pogoda</string>
+</resources>
